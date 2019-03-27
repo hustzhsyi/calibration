@@ -1,0 +1,8 @@
+prefix=/home/zhsyi/calibration/devel
+
+Name: calibration
+Description: Description of calibration
+Version: 0.0.0
+Cflags: -I/home/zhsyi/calibration/devel/include
+Libs: -L/home/zhsyi/calibration/devel/lib 
+Requires: message_runtime
