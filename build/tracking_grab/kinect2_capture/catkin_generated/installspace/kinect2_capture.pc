@@ -1,8 +1,0 @@
-prefix=/home/zhsyi/calibration/install
-
-Name: kinect2_capture
-Description: Description of kinect2_capture
-Version: 0.1.0
-Cflags: 
-Libs: -L/home/zhsyi/calibration/install/lib 
-Requires: 

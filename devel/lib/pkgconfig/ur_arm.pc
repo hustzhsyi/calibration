@@ -1,8 +1,0 @@
-prefix=/home/zhsyi/calibration/devel
-
-Name: ur_arm
-Description: Description of ur_arm
-Version: 0.0.0
-Cflags: -I/home/zhsyi/calibration/devel/include
-Libs: -L/home/zhsyi/calibration/devel/lib 
-Requires: geometry_msgs roscpp std_msgs std_srvs message_runtime

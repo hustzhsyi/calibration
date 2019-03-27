@@ -1,8 +1,0 @@
-prefix=/home/zhsyi/calibration/install
-
-Name: calibration
-Description: Description of calibration
-Version: 0.0.0
-Cflags: -I/home/zhsyi/calibration/install/include
-Libs: -L/home/zhsyi/calibration/install/lib 
-Requires: message_runtime
