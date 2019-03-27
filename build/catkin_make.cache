@@ -1,0 +1,2 @@
+tracking_grab/calibration:tracking_grab/ur_arm
+-G CodeBlocks - Unix Makefiles -DCMAKE_BUILD_TYPE=Debug -DCATKIN_DEVEL_PREFIX=/home/zhsyi/calibration/devel -DCMAKE_INSTALL_PREFIX=/home/zhsyi/calibration/install

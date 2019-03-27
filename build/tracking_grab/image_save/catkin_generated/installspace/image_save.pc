@@ -1,0 +1,8 @@
+prefix=/home/zhsyi/calibration/install
+
+Name: image_save
+Description: Description of image_save
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/zhsyi/calibration/install/lib 
+Requires: 
